@@ -4,6 +4,7 @@
     <modules>
     <module fileurl="file://$PROJECT_DIR$/.idea/Java-Foundation-PW_Skills.iml" filepath="$PROJECT_DIR$/.idea/Java-Foundation-PW_Skills.iml" />
       <module fileurl="file://$PROJECT_DIR$/L37 - Bubble Sort Algorithm/L37 - Bubble Sort Algorithm.iml" filepath="$PROJECT_DIR$/L37 - Bubble Sort Algorithm/L37 - Bubble Sort Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L38 - Selection Sort Algorithm/L38 - Selection Sort Algorithm.iml" filepath="$PROJECT_DIR$/L38 - Selection Sort Algorithm/L38 - Selection Sort Algorithm.iml" />
     </modules>
   </component>
 </project>
